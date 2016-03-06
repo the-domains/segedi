@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Segedi]]></title>
+        <description><![CDATA[Segedi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 21:53:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Glenbow Ranch Provincial Park]]></title>
+            <description><![CDATA[<article><h1>Glenbow Ranch Provincial Park</h1><p>This park, just on the outskirts of Calgary, close to Cochrane, is a great place for a walk. These photos were taken in February 2016, a month that usually sees a lot of snow cover. But, this mild winter has provided scenes of golden grasses instead.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64a155c8a47e51bd86153c207c758d3214c68dcb.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/segedi/25189466120/in/dateposted-public/</link>
+            <guid isPermaLink="false">33c842a0-a392-4d2e-8d18-a1aede59938b</guid>
+            <pubDate>Sun, 06 Mar 2016 21:52:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
